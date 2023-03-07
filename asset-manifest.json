@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/TicTacToe/static/css/main.ab8fecb1.css",
+    "main.css": "/TicTacToe/static/css/main.dbc07aca.css",
     "main.js": "/TicTacToe/static/js/main.dbafba1f.js",
+    "static/media/wooden-board-background.webp": "/TicTacToe/static/media/wooden-board-background.3a2a8fff7c2b70931473.webp",
     "index.html": "/TicTacToe/index.html",
-    "main.ab8fecb1.css.map": "/TicTacToe/static/css/main.ab8fecb1.css.map",
+    "main.dbc07aca.css.map": "/TicTacToe/static/css/main.dbc07aca.css.map",
     "main.dbafba1f.js.map": "/TicTacToe/static/js/main.dbafba1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab8fecb1.css",
+    "static/css/main.dbc07aca.css",
     "static/js/main.dbafba1f.js"
   ]
 }
